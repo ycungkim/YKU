@@ -2,6 +2,7 @@
 - [2025 Algebra Camp](https://algebra2025.crystalline.site), 2025.2.9 ~ 13, Yangpyeong Bloomvista, Korea
 
 ### Talks
+- [Winter School on Arithmetic Dynamics](https://sites.google.com/view/winterschool-arithmetic), UNIST, Jan. 7–9, 2026
 - [2025 Algebra Camp](https://algebra2025.crystalline.site), 2025.2.11
 - [SNU Exchange Seminar](https://www.math.snu.ac.kr/~gyeseonlee/ExchangeSeminar.html), 2024.8.28
 - [SNU Exchange Seminar](https://www.math.snu.ac.kr/~gyeseonlee/ExchangeSeminar.html), 2024.2.27
