@@ -1,9 +1,9 @@
-site_name: YoungKyun_Kim
+site_name: Young Kyun Kim
 
 theme: material
 
 nav:
-  - Young Kyun Kim: index.md
+  - Home: index.md
   - Research: research.md
   - Activity: activity.md
 
