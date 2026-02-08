@@ -5,3 +5,7 @@ theme: material
 nav:
   - Home: index.md
   - Research: research.md
+  - Activity: activity.md
+
+
+#git add . && git commit -m "update" && git push && mkdocs gh-deploy
