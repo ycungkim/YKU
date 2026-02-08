@@ -3,7 +3,7 @@ site_name: YoungKyun_Kim
 theme: material
 
 nav:
-  - Home: index.md
+  - Young Kyun Kim: index.md
   - Research: research.md
   - Activity: activity.md
 
