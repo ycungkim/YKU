@@ -7,5 +7,7 @@ nav:
   - Research: research.md
   - Activity: activity.md
 
+extra_css:
+  - stylesheets/extra.css
 
 #git add . && git commit -m "update" && git push && mkdocs gh-deploy
