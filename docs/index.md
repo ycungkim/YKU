@@ -7,8 +7,8 @@ Hello! My name is Young Kyun Kim. I am a PhD student at Seoul National Universit
 - Quadratic Forms
 
 
-## Affiliation: Seoul National University (SNU)
-## Address: Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
-## Email: young98kim [at] snu [dot] ac [dot] kr
+### Affiliation: Seoul National University (SNU)
+### Address: Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
+### Email: young98kim [at] snu [dot] ac [dot] kr
 
 
