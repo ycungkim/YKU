@@ -11,3 +11,5 @@ extra_css:
   - stylesheets/extra.css
 
 #git add . && git commit -m "update" && git push && mkdocs gh-deploy
+
+#mkdocs serve

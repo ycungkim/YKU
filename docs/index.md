@@ -9,7 +9,6 @@ Hello! My name is Young Kyun Kim (김영균). I am a PhD student at Seoul Nation
 
 ### Research Interests: Number Theory
 - Arithmetic Dynamics
-- Arithmetic Geometry
 - Quadratic Forms
 
 
